@@ -1,0 +1,47 @@
+body{
+    background-size: cover;
+}
+#heading{
+font-size: 40;
+font-family: cursive;
+}
+#piano{
+    font-size: 30 ;
+    font-family: monospace;
+}
+#bedroom{
+    font-size: 30 ;
+    font-family: monospace;
+}
+#toys{
+    font-size: 30 ;
+    font-family: monospace;
+}
+#tv{
+    font-size: 30 ;
+    font-family: monospace;
+}
+#items{
+    font-size: 30 ;
+    font-family: monospace;
+}
+#piano_image{
+    width: 300px;
+    height: 500px;
+}
+#bedroom_image{
+    width: 300px;
+    height: 500px;   
+}
+#items_image{
+    width: 300px;
+    height: 500px;   
+}
+#toys_image{
+    width: 500px;
+    height: 400px;   
+}
+#tv_image{
+    width: 500px;
+    height: 400px;   
+}
